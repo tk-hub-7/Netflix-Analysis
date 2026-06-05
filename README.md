@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="netflix-logo" src="https://github.com/user-attachments/assets/fa3fd884-85a5-45fc-a06e-f73e6fb59ea5" />
+
+
+
+
 # 🎬 Netflix Data Analysis — Advanced SQL Project
 
 A structured SQL-based analysis of Netflix's content library, solving 15 real-world business problems using PostgreSQL.
